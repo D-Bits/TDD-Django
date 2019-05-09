@@ -1,0 +1,19 @@
+{
+    "python.pythonPath": "C:\\Users\\Dana\\.virtualenvs\\TDD-Django-ixeY006Z\\Scripts\\python.exe",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./testing_goat",
+        "-p",
+        "*_test.py"
+    ],
+    "python.testing.pyTestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
